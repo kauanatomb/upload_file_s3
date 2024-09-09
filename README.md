@@ -8,7 +8,7 @@
 
   <p>
     For a detailed step-by-step guide on how this implementation was done, you can follow the article here: 
-    <a href="https://dev.to/kauanatomb/how-to-create-a-bucket-in-aws-s3-2214-temp-slug-9442735?preview=816842eac48423cc815e46303eec65da0fb15a700a9761ed5432771e23d5139fc24db22b46205a3ecd02fbc4f801dcdb0ea1a1f04e09ff7fbd7871b8">
+    <a href="https://dev.to/kauanatomb/how-to-integrate-aws-s3-with-a-rails-project-for-file-uploads-12ce">
       How to Set Up File Uploads with Active Storage and AWS S3
     </a>.
   </p>
